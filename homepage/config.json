@@ -1,0 +1,45 @@
+{
+	"head": {
+		"title": "Leocl's Home",
+		"description": "Author:Leocl,Category:Personal Website Home",
+		"favicon": "favicon.ico"
+	},
+	"intro": {
+		"title": "Leocl's Home",
+		"subtitle": "A Physics Student's Website",
+		"enter": "enter",
+		"supportAuthor": false,
+		"background": true
+	},
+	"main": {
+		"name": "Leocl",
+		"signature": "単純な馬鹿であいたい。",
+		"avatar": {
+			"link": "assets/avatar.jpg",
+			"height": "100",
+			"width": "100"
+		},
+		"ul": {
+			"first": {
+				"href": "https://github.com/Leo-cl26",
+				"icon": "github",
+				"text": "Github"
+			},
+			"second": {
+				"href": "https://www.blog.leoclnas.com",
+				"icon": "about",
+				"text": "About"
+			},
+			"third": {
+				"href": "https://www.blog.leoclnas.com",
+				"icon": "blog",
+				"text": "Blog"
+			},
+			"fourth": {
+				"href": "https://www.leoclnas.com",
+				"icon": "cloud",
+				"text": "Cloud"
+			}
+		}
+	}
+}

@@ -1,0 +1,39 @@
+@font-face {
+	font-family: 'iconfont';  /* Project id 4152442 */
+	font-display: auto;
+	src: url('//at.alicdn.com/t/c/font_4152442_qfdev3uj9k7.eot?t=1688546258075'); /* IE9 */
+	src: url('//at.alicdn.com/t/c/font_4152442_qfdev3uj9k7.eot?t=1688546258075#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('//at.alicdn.com/t/c/font_4152442_qfdev3uj9k7.woff2?t=1688546258075') format('woff2'),
+		 url('//at.alicdn.com/t/c/font_4152442_qfdev3uj9k7.woff?t=1688546258075') format('woff'),
+		 url('//at.alicdn.com/t/c/font_4152442_qfdev3uj9k7.ttf?t=1688546258075') format('truetype'),
+		 url('//at.alicdn.com/t/c/font_4152442_qfdev3uj9k7.svg?t=1688546258075#iconfont') format('svg');
+  }
+
+.icon {
+	display: block;
+	width: 1.5em;
+	height: 1.5em;
+	margin: 0 auto;
+	fill: currentColor;
+	font-family: 'iconfont' !important;
+	font-size: inherit;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-github:before {
+	content: '\e6f6';
+}
+
+.icon-about:before {
+	content: '\e6b2';
+}
+
+.icon-cloud:before {
+	content: '\e652';
+}
+
+.icon-blog:before {
+	content: '\e600';
+}
